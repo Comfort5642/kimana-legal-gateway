@@ -14,8 +14,11 @@ const AboutSection = () => (
         <h2 className="font-heading text-3xl md:text-4xl font-bold text-foreground">Kurumi Esendi & Co. Advocates</h2>
       </div>
       <div className="max-w-3xl mx-auto text-center mb-14">
+        <p className="text-muted-foreground text-lg leading-relaxed mb-4">
+          Led by <strong className="text-foreground">Reenah Esendi</strong>, Managing Partner, Kurumi Esendi & Co. Advocates is an all-women law firm delivering practical, timely, and client-focused legal solutions in Kimana and the wider Kajiado County.
+        </p>
         <p className="text-muted-foreground text-lg leading-relaxed">
-          We are a client-focused law firm providing accessible, reliable legal services to individuals, businesses, and land investors in Kimana and the wider Kajiado County. With deep local expertise and a commitment to results, we walk with our clients through every legal challenge — from land transactions and family matters to business registration and debt recovery.
+          With experience in property law, civil litigation, and legal consulting — and a law degree from The Catholic University of Eastern Africa — Reenah provides professional representation, reliable documentation services, and clear legal guidance to individuals, businesses, and land investors.
         </p>
       </div>
       <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
