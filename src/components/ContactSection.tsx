@@ -42,6 +42,7 @@ const ContactSection = () => (
             </div>
             <div>
               <h3 className="font-heading font-semibold text-foreground mb-1">Email</h3>
+<<<<<<< HEAD
               <div className="space-y-1">
                   <div className="flex items-center gap-3">
                     <span className="text-sm font-semibold text-foreground">Primary:</span>
@@ -52,6 +53,9 @@ const ContactSection = () => (
                     <a href="mailto:info@kesendiadvocates.co.ke" className="text-muted-foreground hover:text-gold transition-colors">info@kesendiadvocates.co.ke</a>
                   </div>
                 </div>
+=======
+              <a href="mailto:esendiadvocates94@gmail.com" className="text-muted-foreground hover:text-gold transition-colors">esendiadvocates94@gmail.com</a>
+>>>>>>> 4c6226e43f5b4aac8947460dd5ea01c7a6f22cbc
             </div>
           </div>
           <div className="flex gap-4">
