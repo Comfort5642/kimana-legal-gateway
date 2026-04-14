@@ -1,4 +1,4 @@
-import { MapPin, Phone, MessageCircle, Clock } from "lucide-react";
+import { MapPin, Phone, MessageCircle, Clock, Mail } from "lucide-react";
 
 const ContactSection = () => (
   <section id="contact" className="section-padding bg-cream">
