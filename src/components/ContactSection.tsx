@@ -24,7 +24,7 @@ const ContactSection = () => (
             </div>
             <div>
               <h3 className="font-heading font-semibold text-foreground mb-1">Phone</h3>
-              <a href="tel:+254700000000" className="text-muted-foreground hover:text-gold transition-colors">+254 700 000 000</a>
+              <a href="tel:+254792214178" className="text-muted-foreground hover:text-gold transition-colors">+254 792 214 178</a>
             </div>
           </div>
           <div className="flex gap-4">
@@ -33,7 +33,7 @@ const ContactSection = () => (
             </div>
             <div>
               <h3 className="font-heading font-semibold text-foreground mb-1">WhatsApp</h3>
-              <a href="https://wa.me/254700000000" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-gold transition-colors">Chat with us on WhatsApp</a>
+              <a href="https://wa.me/254792214178" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-gold transition-colors">Chat with us on WhatsApp</a>
             </div>
           </div>
           <div className="flex gap-4">
