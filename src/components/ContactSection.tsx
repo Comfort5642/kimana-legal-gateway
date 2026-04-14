@@ -38,6 +38,14 @@ const ContactSection = () => (
           </div>
           <div className="flex gap-4">
             <div className="flex-shrink-0 w-12 h-12 rounded-lg bg-navy flex items-center justify-center">
+              <Mail className="w-6 h-6 text-gold" />
+            </div>
+            <div>
+              <h3 className="font-heading font-semibold text-foreground mb-1">Email</h3>
+              <a href="mailto:esendiadvocates94@gmail.com" className="text-muted-foreground hover:text-gold transition-colors">esendiadvocates94@gmail.com</a>
+            </div>
+          <div className="flex gap-4">
+            <div className="flex-shrink-0 w-12 h-12 rounded-lg bg-navy flex items-center justify-center">
               <Clock className="w-6 h-6 text-gold" />
             </div>
             <div>
