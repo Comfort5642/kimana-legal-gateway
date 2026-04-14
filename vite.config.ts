@@ -1,11 +1,6 @@
 import { defineConfig } from "vite";
 import react from "@vitejs/plugin-react-swc";
 import path from "path";
-<<<<<<< HEAD
-// removed lovable-tagger to avoid injected meta tags in build output
-=======
-import { componentTagger } from "lovable-tagger";
->>>>>>> 4c6226e43f5b4aac8947460dd5ea01c7a6f22cbc
 
 // https://vitejs.dev/config/
 export default defineConfig(({ mode }) => ({
@@ -16,11 +11,8 @@ export default defineConfig(({ mode }) => ({
       overlay: false,
     },
   },
-<<<<<<< HEAD
   plugins: [react()],
-=======
-  plugins: [react(), mode === "development" && componentTagger()].filter(Boolean),
->>>>>>> 4c6226e43f5b4aac8947460dd5ea01c7a6f22cbc
+  base: '/kimana-legal-gateway/',
   resolve: {
     alias: {
       "@": path.resolve(__dirname, "./src"),
