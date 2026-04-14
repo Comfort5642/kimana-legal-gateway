@@ -26,7 +26,7 @@ const Navbar = () => {
               {l.label}
             </a>
           ))}
-          <a href="tel:+254700000000" className="inline-flex items-center gap-2 bg-gold text-secondary-foreground px-4 py-2 rounded text-sm font-semibold hover:bg-gold-dark transition-colors">
+          <a href="tel:+254792214178" className="inline-flex items-center gap-2 bg-gold text-secondary-foreground px-4 py-2 rounded text-sm font-semibold hover:bg-gold-dark transition-colors">
             <Phone className="w-4 h-4" /> Call Now
           </a>
         </div>
@@ -43,7 +43,7 @@ const Navbar = () => {
               {l.label}
             </a>
           ))}
-          <a href="tel:+254700000000" className="mt-3 inline-flex items-center gap-2 bg-gold text-secondary-foreground px-4 py-2 rounded text-sm font-semibold">
+          <a href="tel:+254792214178" className="mt-3 inline-flex items-center gap-2 bg-gold text-secondary-foreground px-4 py-2 rounded text-sm font-semibold">
             <Phone className="w-4 h-4" /> Call Now
           </a>
         </div>
