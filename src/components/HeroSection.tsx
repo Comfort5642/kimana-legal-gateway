@@ -18,10 +18,10 @@ const HeroSection = () => (
           Reliable, professional, and results-driven legal representation
         </p>
         <div className="flex flex-wrap gap-4 animate-fade-in-up" style={{ animationDelay: "0.3s" }}>
-          <a href="tel:+254700000000" className="inline-flex items-center gap-2 bg-gold hover:bg-gold-dark text-secondary-foreground px-6 py-3 rounded font-semibold transition-colors">
+          <a href="tel:+254792214178" className="inline-flex items-center gap-2 bg-gold hover:bg-gold-dark text-secondary-foreground px-6 py-3 rounded font-semibold transition-colors">
             <Phone className="w-5 h-5" /> Call Now
           </a>
-          <a href="https://wa.me/254700000000" target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-2 bg-green-600 hover:bg-green-700 text-primary-foreground px-6 py-3 rounded font-semibold transition-colors">
+          <a href="https://wa.me/254792214178" target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-2 bg-green-600 hover:bg-green-700 text-primary-foreground px-6 py-3 rounded font-semibold transition-colors">
             <MessageCircle className="w-5 h-5" /> WhatsApp
           </a>
           <a href="#contact" className="inline-flex items-center gap-2 border-2 border-gold/50 hover:border-gold text-primary-foreground px-6 py-3 rounded font-semibold transition-colors">
