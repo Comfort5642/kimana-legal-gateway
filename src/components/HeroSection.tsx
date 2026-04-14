@@ -4,7 +4,7 @@ import heroImage from "@/assets/advocate-hero.jpg";
 const HeroSection = () => (
   <section id="hero" className="relative min-h-screen flex items-center bg-navy-dark overflow-hidden">
     <div className="absolute inset-0 bg-gradient-to-r from-navy-dark via-navy-dark/90 to-navy-dark/40 z-10" />
-    <img src={heroImage} alt="Kurumi Esendi advocate in office" className="absolute inset-0 w-full h-full object-cover object-top" width={1280} height={720} />
+    <img src={heroImage} alt="Reenah Esendi, Managing Partner at Kurumi Esendi & Co. Advocates" className="absolute inset-0 w-full h-full object-cover object-top" width={1280} height={720} />
 
     <div className="relative z-20 container-narrow px-4 sm:px-6 lg:px-8 pt-20">
       <div className="max-w-2xl">
