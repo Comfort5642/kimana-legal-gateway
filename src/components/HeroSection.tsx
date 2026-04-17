@@ -20,7 +20,7 @@ const HeroSection = () => (
     {/* Reenah portrait, composited bottom-right, fading into the landscape */}
     <img
       src={reenahPhoto}
-      alt="Reenah Esendi, Managing Partner at Kurumi Esendi & Co. Advocates"
+      alt="Reenah Esendi, Managing Partner at Kurumi Esendi Advocates"
       width={720}
       height={1080}
       className="hidden md:block absolute right-0 bottom-0 z-20 h-[70%] lg:h-[78%] w-auto object-contain object-bottom opacity-70 mix-blend-luminosity drop-shadow-xl [mask-image:linear-gradient(to_left,black_55%,transparent_100%)]"

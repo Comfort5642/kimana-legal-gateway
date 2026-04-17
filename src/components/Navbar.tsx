@@ -19,7 +19,7 @@ const Navbar = () => {
     <nav className="fixed top-0 left-0 right-0 z-50 bg-navy-dark/95 backdrop-blur-sm border-b border-navy-light/30">
       <div className="container-narrow flex items-center justify-between px-4 sm:px-6 lg:px-8 h-16 md:h-20">
         <a href="#hero" className="font-heading text-lg md:text-xl font-bold text-primary-foreground">
-          Kurumi Esendi <span className="text-gold">&</span> Co.
+          Kurumi Esendi <span className="text-gold">Advocates</span>
         </a>
 
         <div className="hidden md:flex items-center gap-6">

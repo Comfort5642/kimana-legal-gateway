@@ -4,7 +4,7 @@ const testimonials = [
   {
     name: "James M.",
     role: "Land Buyer, Kimana",
-    text: "Kurumi Esendi & Co. handled my land purchase seamlessly. They did thorough due diligence and I got my title deed without any issues. Highly professional!",
+    text: "Kurumi Esendi Advocates handled my land purchase seamlessly. They did thorough due diligence and I got my title deed without any issues. Highly professional!",
   },
   {
     name: "Grace W.",
