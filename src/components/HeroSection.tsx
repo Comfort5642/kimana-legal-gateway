@@ -23,7 +23,7 @@ const HeroSection = () => (
       alt="Reenah Esendi, Managing Partner at Kurumi Esendi & Co. Advocates"
       width={720}
       height={1080}
-      className="hidden md:block absolute right-0 bottom-0 z-20 h-[85%] lg:h-[92%] w-auto object-contain object-bottom drop-shadow-2xl [mask-image:linear-gradient(to_left,black_70%,transparent_100%)]"
+      className="hidden md:block absolute right-0 bottom-0 z-20 h-[70%] lg:h-[78%] w-auto object-contain object-bottom opacity-70 mix-blend-luminosity drop-shadow-xl [mask-image:linear-gradient(to_left,black_55%,transparent_100%)]"
     />
 
     {/* Copy block — tightened left padding per request */}

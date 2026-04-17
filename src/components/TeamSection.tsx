@@ -3,6 +3,8 @@ import reenahPhoto from "@/assets/advocate-hero.jpg";
 import gracePhoto from "@/assets/grace-mwende.svg";
 import janePhoto from "@/assets/jane-wambui.svg";
 import mercyPhoto from "@/assets/mercy-njeri.svg";
+import legalAssistant1 from "@/assets/legal-assistant-1.jpeg";
+import legalAssistant2 from "@/assets/legal-assistant-2.jpeg";
 
 const TeamSection = () => (
   <section id="team" className="section-padding bg-card">
@@ -82,6 +84,26 @@ const TeamSection = () => (
                   <div className="font-semibold">Mercy Njeri</div>
                   <div className="text-sm text-muted-foreground">Legal Assistant</div>
                   <div className="text-sm text-muted-foreground leading-relaxed">Mercy manages client intake, prepares case documents, and ensures smooth communication between clients and advocates.</div>
+                </div>
+              </div>
+              <div className="flex items-center gap-4">
+                <div className="w-14 h-14 rounded-full overflow-hidden border-2 border-gold/30 flex-shrink-0">
+                  <img src={legalAssistant1} alt="Legal Assistant I" className="w-full h-full object-cover" />
+                </div>
+                <div>
+                  <div className="font-semibold">Legal Assistant I</div>
+                  <div className="text-sm text-muted-foreground">Legal Assistant</div>
+                  <div className="text-sm text-muted-foreground leading-relaxed">Supports the team with legal research, drafting of pleadings, and conveyancing paperwork, ensuring matters move efficiently from instruction to resolution.</div>
+                </div>
+              </div>
+              <div className="flex items-center gap-4">
+                <div className="w-14 h-14 rounded-full overflow-hidden border-2 border-gold/30 flex-shrink-0">
+                  <img src={legalAssistant2} alt="Legal Assistant II" className="w-full h-full object-cover" />
+                </div>
+                <div>
+                  <div className="font-semibold">Legal Assistant II</div>
+                  <div className="text-sm text-muted-foreground">Legal Assistant</div>
+                  <div className="text-sm text-muted-foreground leading-relaxed">Assists with court filings, client follow-ups, and document management, providing dependable day-to-day support across the firm's practice areas.</div>
                 </div>
               </div>
             </div>
